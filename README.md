@@ -1,4 +1,4 @@
-# simple_chatbot
+# Simple Chatbot
 - Responds to common greetings like "hi", "hello", and "hii".
 - Answers inquiries about well-being with predefined responses.
 - Introduces itself when asked about its name.
